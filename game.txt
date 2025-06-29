@@ -5,3 +5,4 @@ options
 
 player1 menu 
 player1 stats
+player1 armor
