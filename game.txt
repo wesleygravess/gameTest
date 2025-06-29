@@ -5,3 +5,4 @@ options
 
 character gear
 character stats
+character inventory
