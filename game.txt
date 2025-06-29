@@ -1,8 +1,0 @@
-menu
-play
-exit
-options
-
-character gear
-character stats
-character inventory
