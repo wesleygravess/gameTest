@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 EMPTY!
+=======
+
+EMPTY!
+save changes
+git stash apply
+>>>>>>> Stashed changes
