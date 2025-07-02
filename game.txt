@@ -6,3 +6,6 @@ options
 player1 menu 
 player1 stats
 player1 armor
+
+player1 online menu;
+player one color;
