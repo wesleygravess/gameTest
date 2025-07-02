@@ -3,8 +3,8 @@ EMPTY!
 save changes
 git stash apply
 
-dps;
-dot;
+dps damage;
+dot damage;
 
 player health;
 player mana;
