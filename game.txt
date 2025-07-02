@@ -2,3 +2,7 @@
 EMPTY!
 save changes
 git stash apply
+
+
+player health;
+player mana;
